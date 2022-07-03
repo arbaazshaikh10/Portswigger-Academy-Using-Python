@@ -4,7 +4,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-site = "https://0a1400db0380c858c0b10c0300da00e4.web-security-academy.net/"
+site = "https://xxxxx.web-security-academy.net/"
 s = requests.Session()
 
 if 'https://' in site:
